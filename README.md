@@ -1,1 +1,1 @@
-traveljournal23.netlify.app
+https://traveljournal23.netlify.app/
