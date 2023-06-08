@@ -1,0 +1,12 @@
+.navbar {
+  background: #f55a5a;
+  width: 60vw;
+  height: 12vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+.logo {
+  margin-left: 1rem;
+}

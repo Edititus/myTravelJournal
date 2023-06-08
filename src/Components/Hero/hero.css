@@ -1,0 +1,52 @@
+.container {
+  margin-left: 5rem;
+}
+
+.japan {
+  font-weight: 100;
+  font-size: 15px;
+  letter-spacing: 0.22em;
+  color: #2b283a;
+}
+
+hr {
+  width: 60vw;
+  margin-top: 1.5rem;
+  border: 1px solid #F5F5F5;
+}
+
+.imagediv {
+  margin-top: 5rem;
+  display: flex;
+}
+img {
+  border-radius: 5px;
+  width: 15vw;
+  height: 35vh;
+ 
+}
+.viewText {
+  font-weight: 3px;
+  font-size: 15px;
+  text-decoration-line: underline;
+  color: #918e9b;
+  padding-left: 1rem;
+}
+.countryDetails{
+    display: flex;
+    margin-bottom: 0.5rem;
+}
+.countryInformation{
+    margin-top: 2rem;
+    padding-left: 2rem;
+
+}
+.period{
+    margin-top: 1rem;
+}
+.description{
+    margin-top: 0.5rem;
+    max-width: 30vw;
+    line-height: 150%;
+color: #2B283A;
+}
